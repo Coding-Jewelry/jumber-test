@@ -1,6 +1,6 @@
 {
-  "name": "angular2-unittest-samples",
-  "version": "0.0.0",
+  "name": "Jumber Test",
+  "version": "0.1.0",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
